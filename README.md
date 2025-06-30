@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="scr/kitty.gif" alt="kitty" width="600" />
+  <img src="kitty.gif" alt="kitty" width="600" />
 </div>
 
 <h4 align=center>Devices</h4>

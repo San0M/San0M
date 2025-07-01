@@ -11,7 +11,7 @@
 
 <h4 align=center>Social</h4>
 <p align=center>
-<a href="https://t.me/Itz_Tensh1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff"></a>
+<a href="https://t.me/Im_Tensh1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff"></a>
 <a href="mailto:yaitztensh1@gmail.com?subject=Тема письма&body=Текст сообщения"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="http:/san0m.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"></a>
 <a href="link"><img scr="link"></a>

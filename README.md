@@ -12,6 +12,8 @@
 <h4 align=center>Social</h4>
 <p align=center>
 <a href="https://t.me/Im_Tensh1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff"></a>
+<a href="https://line.me/ti/p/h99MXd6FC4"><img src="https://img.shields.io/badge/Line-06C755?style=flat-square&logo=line&logoColor=ffffff"></a>
+<a href="https://steamcommunity.com/id/TenDRG/"><img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=Steam&logoColor=ffffff"></a>
 <a href="mailto:yaitztensh1@gmail.com?subject=Тема письма&body=Текст сообщения"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 <a href="http:/san0m.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=About.me&logoColor=white"></a>
 <a href="link"><img scr="link"></a>

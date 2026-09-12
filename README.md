@@ -8,6 +8,8 @@
 <a href="https://www.mi.com/ru/miui"><img src="https://img.shields.io/badge/MIUI-fccf03?style=flat-square&logo=Android&logoColor=ffffff"></a>
 <a href="https://ru.m.wikipedia.org/wiki/Redmi_9C"><img src="https://img.shields.io/badge/Redmi%209C%20NFC-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
 <a href="https://github.com/LineageOS"><img src="https://img.shields.io/badge/LineageOS-fccf03?style=flat-square&logo=lineageos&logoColor=ffffff"></a>
+<a href="https://en.wikipedia.org/wiki/Redmi_4A"><img src="https://img.shields.io/badge/Redmi%204A-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
+<a href="https://superioros.github.io/screenshots.html"><img src="https://img.shields.io/badge/SuperiorOS-Phoneix-ff6700?style=flat-square&logo=android&logoColor=FFFFFF"></a>
 
 <h4 align=center>Social</h4>
 <p align=center>

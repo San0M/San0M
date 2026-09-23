@@ -6,8 +6,10 @@
 <p align=center>
 <a href="https://www.mi.com/global/product/redmi-note-13-pro/"><img src="https://img.shields.io/badge/Redmi%20Note%2013%20Pro-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
 <a href="https://www.mi.com/ru/miui"><img src="https://img.shields.io/badge/MIUI-fccf03?style=flat-square&logo=Android&logoColor=ffffff"></a>
+
 <a href="https://ru.m.wikipedia.org/wiki/Redmi_9C"><img src="https://img.shields.io/badge/Redmi%209C%20NFC-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
 <a href="https://github.com/LineageOS"><img src="https://img.shields.io/badge/LineageOS-fccf03?style=flat-square&logo=lineageos&logoColor=ffffff"></a>
+
 <a href="https://en.wikipedia.org/wiki/Redmi_4A"><img src="https://img.shields.io/badge/Redmi%204A-ff6700?style=flat-square&logo=xiaomi&logoColor=FFFFFF"></a>
 <a href="https://superioros.github.io/screenshots.html"><img src="https://img.shields.io/badge/SuperiorOS-Phoneix-ff6700?style=flat-square&logo=android&logoColor=FFFFFF"></a>
 
@@ -15,6 +17,7 @@
 <p align=center>
 <a href="https://t.me/Im_Tensh1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=ffffff"></a>
 <a href="https://line.me/ti/p/h99MXd6FC4"><img src="https://img.shields.io/badge/Line-06C755?style=flat-square&logo=line&logoColor=ffffff"></a>
+
 <a href="https://steamcommunity.com/id/TenDRG/"><img src="https://img.shields.io/badge/Steam-1b2838?style=flat-square&logo=Steam&logoColor=ffffff"></a>
 <a href="https://san0m.github.io/img/weixin.png"><img src="https://img.shields.io/badge/WeChat-07C160?style=flat-square&logo=wechat&logoColor=ffffff"></a>
 <a href="mailto:yaitztensh1@gmail.com?subject=Тема письма&body=Текст сообщения"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=ffffff"></a>
